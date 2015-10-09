@@ -1,0 +1,1 @@
+!function(n){n.player=new Player}(window,void 0);
